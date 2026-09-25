@@ -1,0 +1,13 @@
+{
+    "name": "settlement-conversion-rate",
+    "description": "Settlement conversion rate and billing amount",
+    "date": "2026-09-25 22:04:28",
+    "data": {
+        "conversionRate": 5.5025,
+        "crdhldBillAmt": 5.5025,
+        "fxDate": "2026-09-25",
+        "transCurr": "USD",
+        "crdhldBillCurr": "BRL",
+        "transAmt": 1
+    }
+}

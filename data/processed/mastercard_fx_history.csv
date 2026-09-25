@@ -1,0 +1,2 @@
+collected_at_utc,fx_date,transaction_currency,billing_currency,conversion_rate,transaction_amount,billing_amount,bank_fee
+2026-09-25T22:04:28.554378+00:00,2026-09-25,USD,BRL,5.5025,1,5.5025,
